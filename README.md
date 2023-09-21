@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+🔭 I'm currently studying computer science at Bilkent University.
+
+🤔 I'm interested in machine learning.
+
+⭐ I have a bronze medal in the International Olympiads on Astronomy and Astrophysics.
+
 <!--
 **IAmPeaCoN/IAmPeaCoN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
