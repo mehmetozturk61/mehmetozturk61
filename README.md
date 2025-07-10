@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I'm currently studying computer science as a freshman at Bilkent University.
+🔭 I'm currently studying computer science as a junior at Bilkent University.
 
 🤔 I'm interested in machine learning.
 
